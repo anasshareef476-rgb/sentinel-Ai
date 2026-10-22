@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.db
+backend/sentinel_audit.db
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
